@@ -52,6 +52,7 @@ body {
     position: relative;
     cursor: pointer;
     border: 2px solid transparent;
+    outline: none;
   }
 }
 
@@ -98,6 +99,7 @@ body {
     cursor: pointer;
     margin: 0 1rem;
     border: 1px solid transparent;
+    outline: none;
   }
 }
 
