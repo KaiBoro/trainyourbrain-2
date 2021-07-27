@@ -193,8 +193,8 @@ body {
   }
 }
 
-@media screen and (max-width: 38.625em) {
-  /* 618 px */
+@media screen and (max-width: 37.5em) {
+  /* 600 px */
   html {
     font-size: 45%;
   }
@@ -234,5 +234,24 @@ body {
     height: 10rem;
     padding: 2.5rem 0;
     font-size: 2rem;
+  }
+}
+
+@media screen and (max-width: 23.375em) {
+  /* 374px */
+  html {
+    font-size: 31.25%;
+  }
+
+  .info {
+    font-size: 3rem;
+  }
+
+  .facts {
+    font-size: 3rem;
+  }
+
+  .heading-primary {
+    font-size: 6rem;
   }
 }
