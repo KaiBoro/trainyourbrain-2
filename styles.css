@@ -193,7 +193,8 @@ body {
   }
 }
 
-@media screen and (max-width: 618px) {
+@media screen and (max-width: 38.625em) {
+  /* 618 px */
   html {
     font-size: 45%;
   }
