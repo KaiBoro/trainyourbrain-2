@@ -201,6 +201,7 @@ body {
 
   .game {
     padding-top: 3rem;
+    height: 100%;
   }
 
   .heading-primary {
